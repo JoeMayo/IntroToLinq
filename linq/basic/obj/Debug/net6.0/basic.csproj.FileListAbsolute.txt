@@ -1,0 +1,15 @@
+/Users/jmayo/projects/IntroToLinq/linq/basic/bin/Debug/net6.0/basic
+/Users/jmayo/projects/IntroToLinq/linq/basic/bin/Debug/net6.0/basic.deps.json
+/Users/jmayo/projects/IntroToLinq/linq/basic/bin/Debug/net6.0/basic.runtimeconfig.json
+/Users/jmayo/projects/IntroToLinq/linq/basic/bin/Debug/net6.0/basic.dll
+/Users/jmayo/projects/IntroToLinq/linq/basic/bin/Debug/net6.0/basic.pdb
+/Users/jmayo/projects/IntroToLinq/linq/basic/obj/Debug/net6.0/basic.csproj.AssemblyReference.cache
+/Users/jmayo/projects/IntroToLinq/linq/basic/obj/Debug/net6.0/basic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jmayo/projects/IntroToLinq/linq/basic/obj/Debug/net6.0/basic.AssemblyInfoInputs.cache
+/Users/jmayo/projects/IntroToLinq/linq/basic/obj/Debug/net6.0/basic.AssemblyInfo.cs
+/Users/jmayo/projects/IntroToLinq/linq/basic/obj/Debug/net6.0/basic.csproj.CoreCompileInputs.cache
+/Users/jmayo/projects/IntroToLinq/linq/basic/obj/Debug/net6.0/basic.dll
+/Users/jmayo/projects/IntroToLinq/linq/basic/obj/Debug/net6.0/refint/basic.dll
+/Users/jmayo/projects/IntroToLinq/linq/basic/obj/Debug/net6.0/basic.pdb
+/Users/jmayo/projects/IntroToLinq/linq/basic/obj/Debug/net6.0/basic.genruntimeconfig.cache
+/Users/jmayo/projects/IntroToLinq/linq/basic/obj/Debug/net6.0/ref/basic.dll

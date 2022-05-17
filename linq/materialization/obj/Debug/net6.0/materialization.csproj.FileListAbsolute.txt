@@ -1,0 +1,15 @@
+/Users/jmayo/projects/IntroToLinq/linq/materialization/bin/Debug/net6.0/materialization
+/Users/jmayo/projects/IntroToLinq/linq/materialization/bin/Debug/net6.0/materialization.deps.json
+/Users/jmayo/projects/IntroToLinq/linq/materialization/bin/Debug/net6.0/materialization.runtimeconfig.json
+/Users/jmayo/projects/IntroToLinq/linq/materialization/bin/Debug/net6.0/materialization.dll
+/Users/jmayo/projects/IntroToLinq/linq/materialization/bin/Debug/net6.0/materialization.pdb
+/Users/jmayo/projects/IntroToLinq/linq/materialization/obj/Debug/net6.0/materialization.csproj.AssemblyReference.cache
+/Users/jmayo/projects/IntroToLinq/linq/materialization/obj/Debug/net6.0/materialization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jmayo/projects/IntroToLinq/linq/materialization/obj/Debug/net6.0/materialization.AssemblyInfoInputs.cache
+/Users/jmayo/projects/IntroToLinq/linq/materialization/obj/Debug/net6.0/materialization.AssemblyInfo.cs
+/Users/jmayo/projects/IntroToLinq/linq/materialization/obj/Debug/net6.0/materialization.csproj.CoreCompileInputs.cache
+/Users/jmayo/projects/IntroToLinq/linq/materialization/obj/Debug/net6.0/materialization.dll
+/Users/jmayo/projects/IntroToLinq/linq/materialization/obj/Debug/net6.0/refint/materialization.dll
+/Users/jmayo/projects/IntroToLinq/linq/materialization/obj/Debug/net6.0/materialization.pdb
+/Users/jmayo/projects/IntroToLinq/linq/materialization/obj/Debug/net6.0/materialization.genruntimeconfig.cache
+/Users/jmayo/projects/IntroToLinq/linq/materialization/obj/Debug/net6.0/ref/materialization.dll

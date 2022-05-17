@@ -1,0 +1,15 @@
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/obj/Debug/net6.0/declarative.csproj.AssemblyReference.cache
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/obj/Debug/net6.0/declarative.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/obj/Debug/net6.0/declarative.AssemblyInfoInputs.cache
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/obj/Debug/net6.0/declarative.AssemblyInfo.cs
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/obj/Debug/net6.0/declarative.csproj.CoreCompileInputs.cache
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/bin/Debug/net6.0/declarative
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/bin/Debug/net6.0/declarative.deps.json
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/bin/Debug/net6.0/declarative.runtimeconfig.json
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/bin/Debug/net6.0/declarative.dll
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/bin/Debug/net6.0/declarative.pdb
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/obj/Debug/net6.0/declarative.dll
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/obj/Debug/net6.0/refint/declarative.dll
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/obj/Debug/net6.0/declarative.pdb
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/obj/Debug/net6.0/declarative.genruntimeconfig.cache
+/Users/jmayo/projects/IntroToLinq/imperative-declarative/csharp/declarative/obj/Debug/net6.0/ref/declarative.dll

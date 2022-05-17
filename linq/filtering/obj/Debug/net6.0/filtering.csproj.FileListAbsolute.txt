@@ -1,0 +1,15 @@
+/Users/jmayo/projects/IntroToLinq/linq/filtering/bin/Debug/net6.0/filtering
+/Users/jmayo/projects/IntroToLinq/linq/filtering/bin/Debug/net6.0/filtering.deps.json
+/Users/jmayo/projects/IntroToLinq/linq/filtering/bin/Debug/net6.0/filtering.runtimeconfig.json
+/Users/jmayo/projects/IntroToLinq/linq/filtering/bin/Debug/net6.0/filtering.dll
+/Users/jmayo/projects/IntroToLinq/linq/filtering/bin/Debug/net6.0/filtering.pdb
+/Users/jmayo/projects/IntroToLinq/linq/filtering/obj/Debug/net6.0/filtering.csproj.AssemblyReference.cache
+/Users/jmayo/projects/IntroToLinq/linq/filtering/obj/Debug/net6.0/filtering.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jmayo/projects/IntroToLinq/linq/filtering/obj/Debug/net6.0/filtering.AssemblyInfoInputs.cache
+/Users/jmayo/projects/IntroToLinq/linq/filtering/obj/Debug/net6.0/filtering.AssemblyInfo.cs
+/Users/jmayo/projects/IntroToLinq/linq/filtering/obj/Debug/net6.0/filtering.csproj.CoreCompileInputs.cache
+/Users/jmayo/projects/IntroToLinq/linq/filtering/obj/Debug/net6.0/filtering.dll
+/Users/jmayo/projects/IntroToLinq/linq/filtering/obj/Debug/net6.0/refint/filtering.dll
+/Users/jmayo/projects/IntroToLinq/linq/filtering/obj/Debug/net6.0/filtering.pdb
+/Users/jmayo/projects/IntroToLinq/linq/filtering/obj/Debug/net6.0/filtering.genruntimeconfig.cache
+/Users/jmayo/projects/IntroToLinq/linq/filtering/obj/Debug/net6.0/ref/filtering.dll

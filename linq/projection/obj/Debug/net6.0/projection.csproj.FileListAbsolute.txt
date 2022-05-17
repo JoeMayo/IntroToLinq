@@ -1,0 +1,15 @@
+/Users/jmayo/projects/IntroToLinq/linq/projection/obj/Debug/net6.0/projection.csproj.AssemblyReference.cache
+/Users/jmayo/projects/IntroToLinq/linq/projection/obj/Debug/net6.0/projection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jmayo/projects/IntroToLinq/linq/projection/obj/Debug/net6.0/projection.AssemblyInfoInputs.cache
+/Users/jmayo/projects/IntroToLinq/linq/projection/obj/Debug/net6.0/projection.AssemblyInfo.cs
+/Users/jmayo/projects/IntroToLinq/linq/projection/obj/Debug/net6.0/projection.csproj.CoreCompileInputs.cache
+/Users/jmayo/projects/IntroToLinq/linq/projection/bin/Debug/net6.0/projection
+/Users/jmayo/projects/IntroToLinq/linq/projection/bin/Debug/net6.0/projection.deps.json
+/Users/jmayo/projects/IntroToLinq/linq/projection/bin/Debug/net6.0/projection.runtimeconfig.json
+/Users/jmayo/projects/IntroToLinq/linq/projection/bin/Debug/net6.0/projection.dll
+/Users/jmayo/projects/IntroToLinq/linq/projection/bin/Debug/net6.0/projection.pdb
+/Users/jmayo/projects/IntroToLinq/linq/projection/obj/Debug/net6.0/projection.dll
+/Users/jmayo/projects/IntroToLinq/linq/projection/obj/Debug/net6.0/refint/projection.dll
+/Users/jmayo/projects/IntroToLinq/linq/projection/obj/Debug/net6.0/projection.pdb
+/Users/jmayo/projects/IntroToLinq/linq/projection/obj/Debug/net6.0/projection.genruntimeconfig.cache
+/Users/jmayo/projects/IntroToLinq/linq/projection/obj/Debug/net6.0/ref/projection.dll

@@ -1,0 +1,15 @@
+/Users/jmayo/projects/IntroToLinq/linq/sorting/bin/Debug/net6.0/sorting
+/Users/jmayo/projects/IntroToLinq/linq/sorting/bin/Debug/net6.0/sorting.deps.json
+/Users/jmayo/projects/IntroToLinq/linq/sorting/bin/Debug/net6.0/sorting.runtimeconfig.json
+/Users/jmayo/projects/IntroToLinq/linq/sorting/bin/Debug/net6.0/sorting.dll
+/Users/jmayo/projects/IntroToLinq/linq/sorting/bin/Debug/net6.0/sorting.pdb
+/Users/jmayo/projects/IntroToLinq/linq/sorting/obj/Debug/net6.0/sorting.csproj.AssemblyReference.cache
+/Users/jmayo/projects/IntroToLinq/linq/sorting/obj/Debug/net6.0/sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jmayo/projects/IntroToLinq/linq/sorting/obj/Debug/net6.0/sorting.AssemblyInfoInputs.cache
+/Users/jmayo/projects/IntroToLinq/linq/sorting/obj/Debug/net6.0/sorting.AssemblyInfo.cs
+/Users/jmayo/projects/IntroToLinq/linq/sorting/obj/Debug/net6.0/sorting.csproj.CoreCompileInputs.cache
+/Users/jmayo/projects/IntroToLinq/linq/sorting/obj/Debug/net6.0/sorting.dll
+/Users/jmayo/projects/IntroToLinq/linq/sorting/obj/Debug/net6.0/refint/sorting.dll
+/Users/jmayo/projects/IntroToLinq/linq/sorting/obj/Debug/net6.0/sorting.pdb
+/Users/jmayo/projects/IntroToLinq/linq/sorting/obj/Debug/net6.0/sorting.genruntimeconfig.cache
+/Users/jmayo/projects/IntroToLinq/linq/sorting/obj/Debug/net6.0/ref/sorting.dll
