@@ -1,6 +1,5 @@
 ﻿using System.Linq;
 
-
 List<Customer> customers =
   new()
   {
@@ -8,6 +7,8 @@ List<Customer> customers =
     new Customer(2, "Pat", "Smith", "3UM760", 19.95m),
     new Customer(3, "Joe", "Mayo", "9AF876", 13.79m),
   };
+
+Console.WriteLine("\nAssigning Expressions as Properties:\n");
 
 var customerSummaries1 =
     from customer in customers
@@ -19,6 +20,8 @@ var customerSummaries1 =
 
 foreach (var summary in customerSummaries1)
     Console.WriteLine(summary);
+
+Console.WriteLine("\nUsing let Clauses:\n");
 
 var customerSummaries2 =
     from customer in customers

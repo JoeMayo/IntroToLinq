@@ -8,35 +8,36 @@ List<Customer> customers =
     new Customer(3, "Joe", "Mayo", "9AF876", 13.79m),
   };
 
-Console.WriteLine("\nNon-Materialized:\n");
+Console.WriteLine("\nNon-Materialized Query:\n");
 
 var nonMaterialized =
     from customer in customers
     select customer;
 
-Console.WriteLine(nonMaterialized.GetType().FullName);
+// foreach materializes
+foreach (var customer in nonMaterialized)
+    Console.WriteLine(customer);
 
-Console.WriteLine("\nMaterialized:\n");
+Console.WriteLine("\nMaterialized with ToList:\n");
 
 List<Customer> materialized =
     (from customer in customers
      select customer)
     .ToList();
 
-Console.WriteLine(materialized.GetType().FullName);
+// already materialized
+foreach (var customer in materialized)
+    Console.WriteLine(customer);
 
-Console.WriteLine("\nNon-Materialized Anonmymous:\n");
 
-var nonMaterializedAnonymous =
-    from customer in customers
-    select new
-    {
-        customer.ID,
-        customer.FirstName,
-        customer.LastName
-    };
+Console.WriteLine("\nMaterialized with Count:\n");
 
-Console.WriteLine(nonMaterializedAnonymous.GetType().FullName);
+int customerCount =
+    (from customer in customers
+     select customer)
+    .Count();
+
+Console.WriteLine(customerCount);
 
 record Customer(
   int ID,
